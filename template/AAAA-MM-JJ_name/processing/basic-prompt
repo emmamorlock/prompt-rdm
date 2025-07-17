@@ -4,6 +4,7 @@ description: A basic prompt that uses the GPT-3 chat API to answer questions
 version: 1.0.0
 Date: 2025-07-17T12:33:00Z
 Type: zero-shot 
+Patterns: pat-001, pat-002, pat-546
 model:
   api: chat
   configuration:
