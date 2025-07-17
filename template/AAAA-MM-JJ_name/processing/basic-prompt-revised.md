@@ -14,7 +14,6 @@ model:
     api_version: ${env:AZURE_OPENAI_API_VERSION}
     azure_endpoint: ${env:AZURE_OPENAI_ENDPOINT}
   parameters:
-    max_tokens: 128
     temperature: 0.2
 inputs:
   first_name:
