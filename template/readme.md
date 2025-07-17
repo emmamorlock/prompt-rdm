@@ -11,8 +11,9 @@ For link to poster: can add link here
 All experimental results can be reproduced using the code and data in this repository. Feel free to contact XXX XXX (corresponding author) by [email](email) if you have any questions about our work. 
 
 **Revision history**
-* 
-* creation: 2025-07-17 by emmanuelle.morlock@cnrs.fr
+
+* modification: 2025-07-17 (some typos)
+* creation: 2025-07-16 
 
 **Abstract**
 
